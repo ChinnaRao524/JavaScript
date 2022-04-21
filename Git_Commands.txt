@@ -1,17 +1,16 @@
-
-…or push an existing repository from the command line
-git remote add origin https://github.com/ChinnaRao524/JavaScript.git
-git branch -M main
-git push -u origin main
-
+Below commands are to Push an existing repository from the command line
+    git remote add origin https://github.com/ChinnaRao524/JavaScript.git
+    git branch -M main
+    git push -u origin main
 
 
-…or create a new repository on the command line
 
-echo "# JavaScript" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/ChinnaRao524/JavaScript.git
-git push -u origin main
+Below commands are to Create a new repository on the command line
+
+    echo "# JavaScript" >> README.md
+    git init
+    git add README.md
+    git commit -m "first commit"
+    git branch -M main
+    git remote add origin https://github.com/ChinnaRao524/JavaScript.git
+    git push -u origin main
