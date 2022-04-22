@@ -15,5 +15,7 @@ Below commands are to Create a new repository on the command line
     git remote add origin https://github.com/ChinnaRao524/JavaScript.git
     git push -u origin main
 
+Below commands are used to config our email to github
+
     git config --global user.name "John Doe" 
     git config --global user.email johndoe@example.com
