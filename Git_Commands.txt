@@ -18,4 +18,4 @@ Below commands are to Create a new repository on the command line
 Below commands are used to config our email to github
 
     git config --global user.name "John Doe" 
-    git config --global user.email johndoe@example.com
+    git config --global user.email johndoe@example.comgit
