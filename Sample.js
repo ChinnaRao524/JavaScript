@@ -1,4 +1,11 @@
-var name = 'Chinna'
+var Employee = {Name:'Chinna',ID:524,Address:"slssk",Salary:23445}
 
 
-console.log("hello MY First Program. Time is "+new Date(2021,0,1));
+console.log("Employee Salary is "  +Employee.Salary);
+
+
+
+
+
+
+
